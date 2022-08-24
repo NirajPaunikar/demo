@@ -1,5 +1,8 @@
 <?php 
-
+	// This is for testing 
+	// This is for testing 
+	// This is for testing 
+	// This is for testing 
 	$connect=mysqli_connect("localhost","root","","creative")or die("not connected");
 
 	if (isset($_POST['submit'])) {
